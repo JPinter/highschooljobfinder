@@ -1,0 +1,25 @@
+body {
+	background-image: url("building.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	margin-right: 290px;
+	background-attachment: fixed;
+
+	
+
+}
+h1 {
+	font-size: 60px;
+	margin-right: 290px;
+}
+p {
+	font-size: 25px;
+	background-color: white;
+	margin-right: 290px;
+}
+
+#emails {
+	font-size: 22px;
+	text-align:left;
+	color: green;
+}
