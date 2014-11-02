@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<link type="text/css" rel="stylesheet" href="stylesheet-contact.css"/>
+	<head>
+
+	<title>
+		Contact
+	</title>
+</head>
+<body>
+	<h1>
+		Contact
+	</h1>
+	<p>
+	Highschool JobFinder has four co-founders from the Iowa BIG school in Cedar Rapids. 
+	</p>
+	<p id ="emails">
+		Taylor Mehmen
+		tmehmen@ccsdstudent.org
+	</p>
+	<p id ="emails">
+		Joe Vizzini
+		jvizzini3@ccsdstudent.org
+	</p>
+	<p id ="emails">
+		Jake Pinter
+		jpinter@ccsdstudent.org
+	</p>
+	<p id ="emails">
+		Kyle Scheer
+		kyletscheer@gmail.com
+	</p>
+	
+</body>
+</html>
